@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '@aleprosli',
+  title: 'Aliff Rosli | Portfolio',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,18 +34,18 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Main',
+        text: 'About',
         link: '/main/'
       },
     ],
     sidebar: {
       '/main/': [
         {
-          title: 'Main',
-          collapsable: false,
+          title: 'About',
+          collapsable: true,
           children: [
             '',
-            'using-vue',
+            'career',
           ]
         }
       ],
