@@ -1,0 +1,19 @@
+{
+  "name": "Personal",
+  "version": "0.0.1",
+  "description": "Resume &amp; CV",
+  "main": "index.js",
+  "authors": {
+    "name": "Muhammad Aliff Bin Rosli",
+    "email": "aliff.rosli96@gmail.com"
+  },
+  "repository": "/Personal",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
