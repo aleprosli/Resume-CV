@@ -1,15 +1,13 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Resume &amp; CV
-actionText: Quick Start →
-actionLink: /guide/
+heroImage: /me-remove.png
+tagline: 
+actionText: Hello →
+actionLink: /main/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Muhammad Aliff Bin Rosli with ❤️
+- title: Tech Enthusiast
+- title: Software Engineer
+- title: Gamer
+footer: PHP Artisan ❤️
 ---
+
