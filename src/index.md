@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /me-remove.png
+heroImage: /me2-modified.png
 tagline: 
 actionText: Hello →
 actionLink: /main/
